@@ -1,0 +1,9 @@
+{
+  "name": "binance-pump-detector-telegram",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Binance Spot USDT pump alerts to Telegram",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
